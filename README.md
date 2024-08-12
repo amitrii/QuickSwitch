@@ -38,10 +38,10 @@
   
   
 
-   ## Congratulations Extension is now ready to be used in your browser.  
+   ## _Congratulations Extension is now ready to be used in your browser._  
   
   
-   
+     
 6) ### Optional Step: Pin the Extension  
   
      Click on the Extensions icon next to the browser URL bar and pin the QuickSwitch extension for easy access.  
